@@ -70,6 +70,7 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About us</a></li>
+                                <li><a href="cultural.php">Stall Gallery</a></li>
                                 <li><a href="events.php">Events</a></li>
                                 <li><a href="blog.php">Blogs</a></li>
                                 <li><a href="contact.php">Contact</a></li>

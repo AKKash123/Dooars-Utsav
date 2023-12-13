@@ -48,6 +48,7 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About us</a></li>
+                                <li><a href="cultural.php">Stall Gallery</a></li>
                                 <li><a href="events.php">Events</a></li>
                                 <li><a href="blog.php">Blogs</a></li>
                                 <li><a href="contact.php">Contact</a></li>
@@ -99,8 +100,11 @@
                         </ul>
                     </footer>
                 </div>
+                
             </div>
         </div>
+        <h3 class="text-info">Download Contact Member list </h3>
+        <a class="btn gradient-bg" href="img/contact-member.pdf" download > Download Members List</a>
     </div>
 
     <div class="contact-page-map">

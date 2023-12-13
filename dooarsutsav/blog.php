@@ -47,6 +47,7 @@
                             <ul>
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About us</a></li>
+                                <li><a href="cultural.php">Stall Gallery</a></li>
                                 <li><a href="events.php">Events</a></li>
                                 <li><a href="blog.php">Blogs</a></li>
                                 <li><a href="contact.php">Contact</a></li>
@@ -89,12 +90,12 @@
                             <div class="post-comments"><a href="#">2 Comments</a></div>
                         </div> -->
                     </header>
-                    <h1 class="entry-title text-info">OUR Heritage</h1>
+                   
         <div class="swiper-container homepage-regional-events-slider">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="img/PHOTO(1).jpg" alt="" srcset="">
+                                <img src="img/performer/Antara Mitra.jpg" alt="" srcset="">
 
                                 <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
                             </figure><!-- .hero-image -->
