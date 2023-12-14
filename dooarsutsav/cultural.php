@@ -5,7 +5,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Dooars Utsav| Gallery</title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="img/dooarslogo.jpg">
@@ -129,6 +129,20 @@
             <div class="row">
                 <div class="container gallery-container">
                 <h3 class="entry-title text-info">Best Collection of Stalls available!</h3>
+                <div class="entry-content">
+                        <p>
+                        This festival also has had many well decorated government department stalls exhibiting various features, activities and information about the government departments and showcased their various development projects in the region. 
+                        Dooards Utsab offers a great range of delicious and yummy Food of various styles of cuisine. 
+                        It’s a paradise for the food lovers and explorers. 
+                        There were more than 150 numbers of varieties of food stalls in the 17th Biswa Dooars Utsab Alipurduar 2023.  
+                        The various food items include: Tandoori, Kababs, Mughlai, Chinese, Thai, Tibetan, Nepali, traditional Bengali dishes, Steamed Chicken, Pitha, Payes & kheer, Kashmiri Wazwan, Bombay Pav-vaji-Vadapao, Punjabi Naan & Kulcha, Afgani Chicken, Shawarma, Rolls, Cakes, Pastry, Sandwich, Burger, Pizza, Ice Creams and milk shakes, Tea- Tandoori tea, Green Tea, White Tea, Milk Tea, Masala Tea, Orthodox Darjeeling Tea, Coffee, and various other fruit based and milk based beverages, Fish Kabab & Fries, Sweet Stalls, Paan stalls, Phuchka and Chaat stalls, Chops, pakoras and fries stalls, Rajasthani food stalls, Pure Vegetarian food stalls, Jhaal Muri, Chaana-badam-matar Mishaal stalls, and plenty of colourful Candyflosses. 
+
+                        </p>
+                        <figure>
+                            <img src="img/candyflos.jpg" alt="" srcset="">
+                            <img src="img/gallery/h-5.jpg" height="398" width="450" alt="" srcset="">
+                        </figure>
+                    </div>
                     <h1>Gallery</h1>
 
                     <p class="page-description text-center">Visit Dooars Utsav</p>

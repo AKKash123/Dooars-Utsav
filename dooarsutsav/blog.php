@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-12">
                         <header class="entry-header">
-                            <h1 class="entry-title">Events news.</h1>
+                            <h1 class="entry-title">Blogs</h1>
                         </header>
                     </div>
                 </div>
@@ -262,6 +262,12 @@
                         <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
                     </div>
                 </div><!-- .swiper-container -->
+                <h4 class="entry-title">A view of Dooars Utsav</h4>
+                        <div class="entry-meta flex align-items-center">
+                            <div class="posted-author"><a href="#">by Admin</a></div>
+
+                            <div class="post-comments"><a href="#">102 Comments</a></div>
+                        </div>
                     <figure>
                         <!-- <a href="#"><img src="images/news-1.jpg" alt=""></a>
 
@@ -269,23 +275,35 @@
                         <video class="px-3"width="100%" controls autoplay="true">
                             <source src="videos/mela-visit.mp4" type="video/mp4">
                         </video>
-                        <h4 class="entry-title">A view of Dooars Utsav</h4>
+                        
                     </figure>
-                        <video class="px-3"width="1000" controls>
-                            <source src="videos/DOOARS UTSAV.mp4" type="video/mp4">
-                        </video>
+                    <h4 class="entry-title">A view of begining of  Dooars Utsav</h4>
+                        <div class="entry-meta flex align-items-center">
+                            <div class="posted-author"><a href="#">by Admin</a></div>
+
+                            <div class="post-comments"><a href="#">302 Comments</a></div>
+                        </div>
+                        <figure>
+                                <video class="px-3"width="1000" controls>
+                                    <source src="videos/DOOARS UTSAV.mp4" type="video/mp4">
+                                </video>
+                        </figure>
                     <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus
-                            libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia volutpat urna. Maecenas
-                            ut aliquam purus, quis sodales dolor.tiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit ame.</p>
+                    <p>There are two primary objectives of this event, as conceived and envisioned by the pioneering and existing organisers of the event: </p>
+                        <p>1. To nurture conserve and celebrate the unique spirit of unity in diversity among the various ethnic and language groups of the North Bengal Dooars region. This event would become a suitable platform for expressions of diverse cultures and heritage of the vibrant peoples of Dooars. 
+                        </p>
+                        <p>2. To develop the region’s vibrant diverse cultural and to promote the region as a distinct and attractive tourist destination.</p>
                     </div>
                 </article>
 
                 <article class="events-news-post">
                     <header class="entry-header">
                         <h2 class="entry-title"><a href="#">During Show .</a></h2>
+                        <div class="entry-meta flex align-items-center">
+                            <div class="posted-author"><a href="#">by Admin</a></div>
+
+                            <div class="post-comments"><a href="#">311Comments</a></div>
+                        </div>
 
                         <!-- <div class="entry-meta flex align-items-center">
                             <div class="posted-author"><a href="#">by James Williams</a></div>
@@ -304,37 +322,48 @@
                     </figure>
 
                     <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus
-                            libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia volutpat urna. Maecenas
-                            ut aliquam purus, quis sodales dolor.tiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit ame.</p>
+                        <p>This year, the 18th Dooars Utsab Alipurduar was held from 28th December to 7th January 2024.
+                             The festival was inaugurated by the District Magistrate, Alipurduar. 
+                             It started on 7th January morning with a procession parade of around 1000 enthusiasts including eminent
+                            personalities teachers students children youth self help group members folk art groups band of musicians people 
+                            from all walks of life led by the President of 18th Dooars Utsab Alipurduar Committee 
+                            the District Magistrate of Alipurduar and the General Secretary of the 
+                            Utsab Committee Dr. Sourav Chakraborty Chairman SJDA & JCCB along with other executive members of the festival committee 
+                            and high level administrative officers of Alipurduar. 
+                            The cheerfully vibrant massive rally holding the 18th Biswa Dooars Utsab Alipurduar 2023-24 theme Tableau in front of it 
+                            paraded around 2.5 kilometres through the Main Street of the District city of Alipurduar before reaching the 18th Dooars Utsab Alipurduar 2023 venue, 
+                            the enormously huge green field at the heart of the city, popularly known as the Parade Ground. 
+                            The procession was attended by people from all walks of life. 
+                            They came to witness the colourful parade of floats, bands, and cultural performances.   
+
+                        </p>
                     </div>
                 </article>
 
                 <article class="events-news-post">
                     <header class="entry-header">
-                        <h2 class="entry-title"><a href="#">Must-see events this summer</a></h2>
+                        <h2 class="entry-title"><a href="#">Member Committee and guests</a></h2>
 
                         <div class="entry-meta flex align-items-center">
-                            <div class="posted-author"><a href="#">by James Williams</a></div>
+                            <div class="posted-author"><a href="#">by Admin</a></div>
 
-                            <div class="post-comments"><a href="#">2 Comments</a></div>
+                            <div class="post-comments"><a href="#">212 Comments</a></div>
                         </div>
                     </header>
 
                     <figure>
-                        <a href="#"><img src="images/news-3.jpg" alt=""></a>
+                        <a href="#"><img src="img/banner/cap3.png" width="775"alt=""></a>
 
-                        <div class="posted-date"><span>Feb</span><span>11</span><span>‘18</span></div>
+                        <div class="posted-date"><span>Members & </span><span>Special Guests</span><span>‘17</span></div>
                     </figure>
 
                     <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit amet metus. Duis vel semper turpis, ac tempus
-                            libero. Maecenas id ultrices risus. Aenean nec ornare ipsum, lacinia volutpat urna. Maecenas
-                            ut aliquam purus, quis sodales dolor.tiam ut venenatis dui. Nullam tellus risus,
-                            pellentesque at facilisis et, scelerisque sit ame.</p>
+                        <p>Various cultural programmes were held during the festival.
+                             The Dooars Utsab is a major tourist attraction and contributes to the economy of the region.
+                              The festival is a celebration of the rich culture and heritage of the region. 
+                              It is a time to come together and enjoy the vibrancy of the various communities of people. 
+ 
+                        </p>
                     </div>
                 </article>
             </div>

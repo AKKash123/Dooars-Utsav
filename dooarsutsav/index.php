@@ -6,7 +6,9 @@
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
     <link rel="shortcut icon" type="image/x-icon" href="img/dooarslogo.jpg">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -71,7 +73,7 @@
         
             <div class="swiper-slide" data-date="2018/05/01" style="background:url(img/gallery/h-6.jpg)" no-repeat>
                 <div class="hero-content">
-                    <div class="container">
+                    <div class="container container-fluid">
                         <div class="row">
                             <div class="col flex flex-column justify-content-center">
                                 <div class="entry-header">
@@ -110,13 +112,17 @@
 <div class="homepage-info-section">
     <div class="container">
         <div class="row">
-       <h1 class="entry-title text-info">OUR Heritage</h1>
-       <p>
-       One unique feature of this one of a kind literary souvenir magazine is the inclusion of literary pieces poems- short stories written in various languages of the Dooars region that include Rabha, Rajbangshi, Mech-Boro, Toto, Sadri, Orao, Kurukh, Mundari, Garo, Magar, Santhali, Nepali etc. along with their Bengali translations. 
-       Such a culturally uniting and integrating endeavour is to preserve and encourage the ethnic diversities and cultural identities of all the ethnic groups of people living in the Dooars region.   
-       </p>
+
        <div class="col-12 col-md-4 col-lg-5">
-         <a href="cultural.php" class="btn gradient-bg">Read More</a>
+       <h1 class="entry-title text-info">OUR Heritage</h1>
+       <div class="entry-content">
+            <p> One unique feature of this one of a kind literary souvenir magazine is the inclusion of literary pieces poems- short stories written in various languages of the Dooars region that include Rabha, Rajbangshi, Mech-Boro, Toto, Sadri, Orao, Kurukh, Mundari, Garo, Magar, Santhali, Nepali etc. along with their Bengali translations. 
+                Such a culturally uniting and integrating endeavour is to preserve and encourage the ethnic diversities and cultural identities of all the ethnic groups of people living in the Dooars region. 
+                Dooars Utsab is truly a vibrant event. It has been recorded as one of the world's biggest fair in terms exhibition of a variety of performing art forms and with participation of a staggering numbers of visitors.  
+The Folk & Tribal art performance stage witnesses like every year the rich exhibition of folk and tribal cultural performing arts in the form of song, dance, skits and theatre etc of Rajbangshi-Kamtapuri Bhaoaiya, Rabha, Mech-Boro, Sadri, Nepali etc. ethnic exponents.   
+            </p>   
+        </div>
+         <a href="cultural.php" class="btn gradient-bg">Read More</a><a href="lokosanskriti.php" class="btn gradient-bg m-2">Loko Sanskriti & Shows</a>
         </div>
         
             <div class="col-12 col-md-4 col-lg-5">

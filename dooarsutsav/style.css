@@ -1124,6 +1124,10 @@ a:hover, a:active {
 .contact-page-header {
     background-image: url("img/dooarsbaner.jpg");
 }
+.loko-page-header {
+    background-image: url("img/blog/blog2.PNG");
+    max-height: 785px;
+}
 
 .elements-page-header {
     background-image: url("images/elements-bg.jpg");
@@ -2277,4 +2281,10 @@ ul.tabs-nav .tab-nav.active {
 
 .baguetteBox-button {
     background-color: transparent !important;
+}
+@media only screen and (max-device-width: 480px) {
+    body{
+        min-height: fit-content;
+        min-width: none;
+    }
 }
