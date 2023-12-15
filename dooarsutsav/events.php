@@ -109,12 +109,11 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">U2 Concert in Detroit</a></h2>
+                            <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan2, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
@@ -131,20 +130,21 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Summer Festival in Detroit</a></h2>
+                        <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan3, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
                     </header>
 
                     <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
+                        <p>Dooars Utsab is truly a vibrant event. 
+                            It has been recorded as one of the world's biggest fair in terms exhibition of a variety of performing art forms and with participation of a staggering numbers of visitors. 
+
+                        </p>
                     </div>
 
                     
@@ -159,12 +159,11 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Costume Festival Detroit</a></h2>
+                            <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan4, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
@@ -182,21 +181,17 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Summer Festival in Detroit</a></h2>
+                        <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan6, 2023 @ 8:00 Pm </div>
                         </div>
 
                        
                     </header>
 
-                    <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
-                    </div>
+                
 
                    
                 </div>
@@ -210,21 +205,17 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Hotel California in Concert</a></h2>
+                             <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                                <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                                <div class="event-date">jan7, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
                     </header>
 
-                    <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
-                    </div>
+                    
 
                     
                 </div>
@@ -238,12 +229,11 @@
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">DJ Festival in town</a></h2>
+                            <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan8, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
@@ -254,18 +244,17 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-1.jpg" alt=""></a>
+                    <a href="#"><img src="img/loko/loko36.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">U2 Concert in Detroit</a></h2>
+                            <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                        <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                    <div class="event-date">jan9, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
@@ -277,27 +266,23 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-2.jpg" alt=""></a>
+                    <a href="#"><img src="img/loko/loko31.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Summer Festival in Detroit</a></h2>
+                        <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan10, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
                     </header>
 
-                    <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
-                    </div>
+                    
 
                     
                 </div>
@@ -305,18 +290,17 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-3.jpg" alt=""></a>
+                    <a href="#"><img src="img/amit-kumar.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Costume Festival Detroit</a></h2>
+                        <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                        <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                        <div class="event-date">jan01, 2023 @ 8:00 Pm </div>
                         </div>
 
                        
@@ -328,27 +312,21 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-4.jpg" alt=""></a>
+                    <a href="#"><img src="img/loko/loko32.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Summer Festival in Detroit</a></h2>
+                        <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan12, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
                     </header>
-
-                    <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
-                    </div>
 
                   
                 </div>
@@ -356,27 +334,23 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-5.jpg" alt=""></a>
+                    <a href="#"><img src="img/loko/loko33.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">Hotel California in Concert</a></h2>
+                                <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                                <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                                <div class="event-date">jan13, 2023 @ 8:00 Pm </div>
                         </div>
 
                         
                     </header>
 
-                    <div class="entry-content">
-                        <p>Vestibulum eget lacus at mauris sagittis varius. Etiam ut venenatis dui. Nullam tellus risust
-                            lacus at mauris sagittis variusut.</p>
-                    </div>
+                    
 
                     
                 </div>
@@ -384,18 +358,17 @@
 
             <div class="col-12 col-lg-6 single-event">
                 <figure class="events-thumbnail">
-                    <a href="#"><img src="images/event-6.jpg" alt=""></a>
+                    <a href="#"><img src="img/loko/loko34.jpg" alt=""></a>
                 </figure>
 
                 <div class="event-content-wrap">
                     <header class="entry-header flex justify-content-between">
                         <div>
-                            <h2 class="entry-title"><a href="#">DJ Festival in town</a></h2>
+                            <h2 class="entry-title"><a href="#">Dooars Utsav</a></h2>
 
-                            <div class="event-location"><a href="#">Ford Field 2000 Brush St, Detroit, MI 48226, EE.
-                                    UU.</a></div>
+                            <div class="event-location"><a href="#">Alipurduar ,Parade Ground .</a></div>
 
-                            <div class="event-date">May 29, 2018 @ 8:00 Pm - May 30, 2018 @ 4:00 Am</div>
+                            <div class="event-date">jan14, 2023 @ 8:00 Pm </div>
                         </div>
 
                         

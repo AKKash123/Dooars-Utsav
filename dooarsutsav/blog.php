@@ -91,177 +91,7 @@
                         </div> -->
                     </header>
                    
-        <div class="swiper-container homepage-regional-events-slider">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/Antara Mitra.jpg" alt="" srcset="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Zee Bangla </h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"> <span>Dec 28, 2023</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/pranjol.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Zee Bangla </h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Dec 29, 2023</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/senjuti.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Indian Idol</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Dec 30, 2023</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/sourendra-soumojit.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Kolkata</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"> 31st Night<span>Dec 31, 2023</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/Adnan ahmed.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Mumbai</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date">New Year  <span>Jan 01, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/Shanmukha-Priya.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Mumbai</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Jan 02, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/Rafa.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Bangladesh </h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Jan 04, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div><!-- .swiper-slide -->
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/Antara Mitra.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Mumbai</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Jan 05, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div>
-                        
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/sonali-rup.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Mumbai</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Jan 06, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="img/performer/javed-ali.jpg" alt="">
-
-                                <a class="event-overlay-link flex justify-content-center align-items-center" href="#">+</a>
-                            </figure><!-- .hero-image -->
-
-                            <div class="entry-header">
-                                <h2 class="entry-title">Mumbai</h2>
-                            </div><!--- .entry-header -->
-
-                            <div class="entry-footer">
-                                <div class="posted-date"><span>Jan 07, 2024</span></div>
-                            </div><!-- .entry-footer" -->
-                        </div>
-                        <!-- .swiper-slide -->
-                    </div><!-- .swiper-wrapper -->
-
-                    <!-- Add Arrows -->
-                    <div class="swiper-button-next flex justify-content-center align-items-center">
-                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"/></svg></span>
-                    </div>
-
-                    <div class="swiper-button-prev flex justify-content-center align-items-center">
-                        <span><svg viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1203 544q0 13-10 23l-393 393 393 393q10 10 10 23t-10 23l-50 50q-10 10-23 10t-23-10l-466-466q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l50 50q10 10 10 23z"/></svg></span>
-                    </div>
-                </div><!-- .swiper-container -->
+        
                 <h4 class="entry-title">A view of Dooars Utsav</h4>
                         <div class="entry-meta flex align-items-center">
                             <div class="posted-author"><a href="#">by Admin</a></div>
@@ -293,6 +123,32 @@
                         <p>1. To nurture conserve and celebrate the unique spirit of unity in diversity among the various ethnic and language groups of the North Bengal Dooars region. This event would become a suitable platform for expressions of diverse cultures and heritage of the vibrant peoples of Dooars. 
                         </p>
                         <p>2. To develop the region’s vibrant diverse cultural and to promote the region as a distinct and attractive tourist destination.</p>
+                    </div>
+
+                    <h4 class="entry-title">A view of joy ride</h4>
+                        <div class="entry-meta flex align-items-center">
+                            <div class="posted-author"><a href="#">by Admin</a></div>
+
+                            <div class="post-comments"><a href="#">3M Comments</a></div>
+                        </div>
+                        <figure>
+                                <video class="px-3"width="1000" controls>
+                                    <source src="videos/rides1.mp4" type="video/mp4">
+                                </video>
+                        </figure>
+                        <figure>
+                                <video class="px-3"width="1000" controls>
+                                    <source src="videos/rides2.mp4" type="video/mp4">
+                                </video>
+                        </figure>
+                    <div class="entry-content">
+                    <p>
+                        Carnival rides are one of the most exciting and thrilling things one can do at the Biswa Dooars Utsab. 
+                        A favourite among children and adults alike, there are rides for people of all ages. 
+                        The verious fun rides like one giant and one smaller Ferris wheel, Bumper cars, Merrygo-round, Swinging Pirate ships, Breakdance ride, Swing ride, Red baron, Carousel, 
+                        Roundup and others provided much fun-thrilled enjoyment and adrenalin rush. 
+
+                    </p>
                     </div>
                 </article>
 

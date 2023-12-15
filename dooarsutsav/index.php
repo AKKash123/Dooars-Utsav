@@ -87,6 +87,7 @@
                                     <!-- .countdown -->
 
                                     <h2 class="entry-title"> We have the best events. <br>Get your tiket now!</h2>
+                                    
                                 </div><!--- .entry-header -->
 
                                 <!-- <div class="entry-footer">
@@ -112,7 +113,6 @@
 <div class="homepage-info-section">
     <div class="container">
         <div class="row">
-
        <div class="col-12 col-md-4 col-lg-5">
        <h1 class="entry-title text-info">OUR Heritage</h1>
        <div class="entry-content">
@@ -126,16 +126,18 @@ The Folk & Tribal art performance stage witnesses like every year the rich exhib
         </div>
         
             <div class="col-12 col-md-4 col-lg-5">
+                <div class="row">
                 <figure>
-                    <img src="img/dooarslogo.png" alt="Dooars-utsav-logo">
+                    <img  src="img/dooarslogo.png" alt="Dooars-utsav-logo" >
+                    <img class="passimg" src="img/pass.jpg" alt="Dooars-utsav-pass" >
                 </figure>
+                </div>
             </div>
 
             <div class="col-12 col-md-8 col-lg-7">
                 <header class="entry-header">
                     <h2 class="entry-title">Dooars-Utsav</h2>
                 </header>
-
                 <div class="entry-content">
                     <p>Dooars Utsab started in 2005, and over the years this yearly event has
                         become the major and the most attractive and grand festival of Alipurduar
@@ -149,6 +151,7 @@ The Folk & Tribal art performance stage witnesses like every year the rich exhib
                         and level of satisfaction, business experiences, and the socio-economic
                         impact of the event.</p>
                 </div>
+                
 
                 <footer class="entry-footer">
                     <a href="about.php" class="btn gradient-bg">Read More</a>

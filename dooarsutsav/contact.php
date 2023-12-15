@@ -62,26 +62,26 @@
         </div><!-- .header-bar -->
 
         <div class="page-header contact-page-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <header class="entry-header">
-                            <h1 class="entry-title">Contact.</h1>
-                        </header>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </header><!-- .site-header -->
 
-    <div class="container" style="background: url('img/dooarslogo.jpg') no-repeat; height: '557px'; margin-top: '20px' ">
+    <div class="container" >
         <div class="row">
-            <div class="col-12 col-md-6 col-lg-4">
+
+        <!-- <div class="col-8 col-md-6 col-lg-4">
+        <figure class="ddd">
+                            <img class="contact-container" src="img/dooarslogo.png" alt="" srcset="">
+                        </figure>
+                
+            </div> -->
+
+            <div class="col-8 col-md-6 col-lg-4">
                 <div class="contact-location-details">
 
                     <div class="entry-content">
                        <figure>
-                        <img class="contact-container"src="img/exemember/contactbanner.jpeg" width="470" height="" alt="dooars utsav" srcset="">
+                        <img class="contact-container image"src="img/exemember/contactbanner.jpeg" width="470" height="" alt="dooars utsav" srcset="">
                        </figure>
                     </div>
                 </div>
@@ -89,19 +89,7 @@
 
             
 
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="contact-location-details">
-
-                    <footer class="entry-footer">
-                        <ul>
-                            <li class="contact-address">Alipurduar Parade Ground</li>
-                            <li class="contact-number">03564-255703</li>
-                            <li class="contact-email"><a href="#">office@yourbusiness.com</a></li>
-                        </ul>
-                    </footer>
-                </div>
-                
-            </div>
+            
         </div>
         <h3 class="text-info">Download Contact Member list </h3>
         <a class="btn gradient-bg" href="img/contact-member.pdf" download > Download Members List</a>

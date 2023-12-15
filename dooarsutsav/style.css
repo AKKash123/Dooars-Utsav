@@ -1122,7 +1122,7 @@ a:hover, a:active {
 }
 
 .contact-page-header {
-    background-image: url("img/dooarsbaner.jpg");
+    background-image: url("img/Capture.JPG");
 }
 .loko-page-header {
     background-image: url("img/blog/blog2.PNG");
@@ -1988,6 +1988,8 @@ ul.tabs-nav .tab-nav.active {
     background: #9a28d7;
 }
 
+
+
 /*--------------------------------------------------------------
 # Elements Page
 --------------------------------------------------------------*/
@@ -2200,8 +2202,9 @@ ul.tabs-nav .tab-nav.active {
 .contact-container{
     margin-right: 159px;
     /* padding-bottom: -42px; */
-    margin-left: 506px;
+    margin-left: 200px;
     padding-left: 113px;
+    height: 479px;;
 }
 .mytext{
     color:#AA00FF;
@@ -2287,4 +2290,25 @@ ul.tabs-nav .tab-nav.active {
         min-height: fit-content;
         min-width: none;
     }
+}
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+    .contact-container{
+        margin-left: -123px;
+
+    }
+    .passimg{
+        width:265px;
+        margin-left: 15px;
+    }
+}
+.ddd{
+    margin-left: -193px;
+}
+.image{
+    padding-right: 23px;
+    padding-left:-46px;
 }

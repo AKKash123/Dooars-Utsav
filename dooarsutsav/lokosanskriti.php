@@ -128,7 +128,7 @@
         <div class="container">
             <div class="row">
                 <div class="container gallery-container">
-                <h3 class="entry-title text-info"> Lokosanskriti | Main Stage (Mul Moncho) | Sisu Kishore </h3>
+                <h3 class="entry-title text-info"><a href="loko.php"> Lokosanskriti </a>| <a href="mainstage.php">Main Stage (Mul Moncho) </a>| <a href="sisu.php">Sisu Kishore</a> </h3>
                 <div class="entry-content">
                         <p>
                         The Rich and Diversified Cultural Aspects of Biswa Dooars Utsab Alipurduar The 17th Biswa Dooars Utsab Alipurduar 2023, as in the previous years, had three big stages for performing arts - the Main Stage- Mool Mancha, a Tribal & Folk Culture Stage- Adibasi & Lok-Sanskriti mancha, a stage dedicated to Children- Shishu Mancha, along with one open stage for Talk shows & Seminars.  
