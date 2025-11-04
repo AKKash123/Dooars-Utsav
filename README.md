@@ -1,3 +1,6 @@
+username:biswadooarsutsablive@gmail.com
+password:Biswadooars@123
+
 Thanks for downloading this theme!
 
 ## Other Useful Links
